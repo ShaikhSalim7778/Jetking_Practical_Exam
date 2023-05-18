@@ -1,0 +1,53 @@
+
+Function is a block ok code that parforms a specific task.
+Function take input argument and can return value.
+
+step for creat a function in python.
+
+1) sart by define a function.
+	
+	def functionName():
+
+
+2) Inside the function body write the code.
+	
+	def functionName():
+	
+	variable1 = 2
+
+	variable2 = 3
+
+
+	result = variable1 + variable2
+
+	
+
+
+3) if you want return a value usee the return statement.
+ 
+	def functionName():
+	
+	variable1 = 2
+
+	variable2 = 3
+
+
+	result = variable1 + variable2
+
+	return result
+
+
+4) call function by using name
+
+	def functionName():
+	
+	variable1 = 2
+
+	variable2 = 3
+
+
+	result = variable1 + variable2
+
+	return result
+
+	output = functionName()
